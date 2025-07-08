@@ -4,7 +4,7 @@ Easy Nvidia Driver Fix for Display & Performance Problems
 
 .. image:: get.png
    :alt: Nvidia drivers
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://nvidiadrivers.jimdosite.com/
 
 
 Common Issues This Fix Can Solve
